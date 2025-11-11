@@ -12,10 +12,10 @@ This project predicts the **target pressure (bar)** using a neural network (MLP)
 
 ## Best Model Results
 - Train MAPE: 0.0999  
-- Validation MAPE: 0.1450  
-- Test MAPE: 0.1443  
-- R² ≈ 0.95  
-- Kaggle Score: 0.26
+- Validation MAPE: 0.1336
+- Test MAPE: 0.1380  
+- R² ≈ 0.9460 
+- Kaggle Score: 0.25
 
 ## Tools & Libraries
 Python, TensorFlow/Keras, scikit-learn, pandas, numpy, matplotlib
