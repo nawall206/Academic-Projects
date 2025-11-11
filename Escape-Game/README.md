@@ -12,3 +12,10 @@ C89, GCC, Makefile, Valgrind
 
 ## My Role
 Designed player logic, enemy rotation, and memory-safe linked list undo system.
+
+## How to Run
+1. Open terminal in project folder
+2. Compile using:
+   gcc -ansi -pedantic -Wall -o escape main.c game.c enemy.c terminal.c newSleep.c random.c
+3. Run the game:
+   ./escape
